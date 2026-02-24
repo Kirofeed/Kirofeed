@@ -2,12 +2,6 @@
 
 ---
 
-**About Me:**
-
-I'm a student of Faculty of Applied Mathematics and Computer Science at **Belarusian State University (BSU)**. My goal is to become a Backend Developer. I'm passionate about learning Java programming language, algorithms and data structures, clean code, etc.
-
----
-
 **My Skills:**
 
 * **Programming Languages:** Python, Java, C++
